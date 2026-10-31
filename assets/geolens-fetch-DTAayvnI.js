@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/dist-js-BjDDO3Ye.js","assets/core-C25TPJda.js"])))=>i.map(i=>d[i]);
+import{t as r}from"./preload-helper-Bz-Ncc4N.js";import{Ho as c,Yo as n,Zo as s}from"./src-C_rniyNj.js";var i=".geolibre.app",h=new Set(c.flatMap(t=>{try{const{host:e}=new URL(t.baseUrl);return e.endsWith(i)?[e]:[]}catch{return[]}}));async function _(){const{fetch:t}=await r(async()=>{const{fetch:a}=await import("./dist-js-BjDDO3Ye.js");return{fetch:a}},__vite__mapDeps([0,1]));s(n(h,(a,o)=>t(a,o)))}export{_ as installNativeGeoLensFetch};

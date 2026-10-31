@@ -1,0 +1,1 @@
+import{t as d}from"./preload-helper-Bz-Ncc4N.js";var r;(function(o){o.load=function(){return d(()=>import("./webdggrid-YDKxB-j9.js").then(t=>t.Webdggrid.load()),[])}})(r||(r={}));export{r as Webdggrid};
