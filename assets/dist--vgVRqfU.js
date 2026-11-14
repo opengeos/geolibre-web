@@ -1,0 +1,1 @@
+import{t as d}from"./preload-helper-BhofnfyO.js";var r;(function(o){o.load=function(){return d(()=>import("./webdggrid-cEYUe7Kg.js").then(t=>t.Webdggrid.load()),[])}})(r||(r={}));export{r as Webdggrid};
